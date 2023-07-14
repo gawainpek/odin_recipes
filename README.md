@@ -1,1 +1,2 @@
 # odin_recipes
+The current project is to practice creating a barebones HTML website using basic HTML language. The goal is to demonstrate and understanding of HTML writing such as the HTML boilerplate, headers, images, links.
